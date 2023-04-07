@@ -3,7 +3,7 @@
 
 <h1>Cantilever Beam Analysis using Tkinter</h1>
 
-<p>This project can be used for analysing the cantilever beam of rectangualar cross-sectionl using FEA Method. In this Software the theoritical value of strain of cantilever beam will be calculated using Python and also the experiment strain will be found in this software by taking input of  voltage and guage factor and finally the experiment strain value, python  strain value and ansys  starin value will compared and diffrence in all the values will be find.</p>
+<p>This Software can be used for analysing the cantilever beam of rectangualar cross-sectional using FEA Method. In this Software the theoritical value of strain of cantilever beam will be calculated using Python and also the experiment strain will be found in this software by taking input of  voltage and guage factor and finally the experiment strain value, python  strain value and ansys  starin value will compared and diffrence in all the values will be find.</p>
 
 <h2>Tech stack:</h2>
 
